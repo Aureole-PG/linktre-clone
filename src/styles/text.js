@@ -6,3 +6,8 @@ export const Title = styled.p`
     font-weight: bold;
 
 `;
+export const SubTitle = styled.p`
+    text-align: center;
+    font-size: 20px;
+
+`;

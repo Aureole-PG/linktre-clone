@@ -4,6 +4,7 @@ export const ResposiveContainer= styled.div`
     display: block;
     @media (max-width: 600px) {
         max-width: 600px;
+        padding-inline: 10px;
     }
     @media (min-width: 600px) {
         max-width: 600px;
@@ -12,9 +13,7 @@ export const ResposiveContainer= styled.div`
         
         max-width: 600px;
     }
-    @media (min-width: 1200px) {
-        max-width: 1200px;
-    }
+    
 `;
 
 export const Container = styled.div`
