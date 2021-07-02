@@ -1,10 +1,14 @@
 import {createGlobalStyle} from 'styled-components';
 export const GlobalStyle = createGlobalStyle`
+    *{
+        font-family: 'Open Sans', sans-serif;
+    }
     body {
         margin: 0;
         padding: 0;
+        
     }
-    ul, li, h1, h2, h3, p, button {
+    ul, li, h1, h2, h3, p, button, a {
         margin: 0;
     }
     html{

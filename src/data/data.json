@@ -1,0 +1,42 @@
+{   
+    "data":[
+        {
+            "user": "Paul Ganan",
+            "comment": "Fron-end developer",
+            "userImg":"https://avatars.githubusercontent.com/u/29669464?v=4",
+            "backgroundImg": "",
+            "events": [
+                {
+                    "imgUrl": "",
+                    "info": "socket-server-react",
+                    "link": "https://github.com/Aureole-PG/socket-server-react-1"
+                },
+                {
+                    "imgUrl": "",
+                    "info": "restaurant_control",
+                    "link": "https://github.com/Aureole-PG/restaurant_control"
+                },
+                {
+                    "imgUrl": "",
+                    "info": "generic-store",
+                    "link": "https://github.com/Aureole-PG/generic-store"
+                },
+                {
+                    "imgUrl": "",
+                    "info": "PetMap",
+                    "link": "https://github.com/Aureole-PG/PetMap-"
+                }
+            ],
+            "socialMedia":[
+                {"name":"github", "link": "https://github.com/Aureole-PG"},
+                {"name":"linkedin", "link": "https://www.linkedin.com/in/paul-ganan-pilco/"}
+            ]
+        }
+    ],
+    "colors":[
+        "linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%)",
+        "linear-gradient(to top, #d299c2 0%, #fef9d7 100%)",
+        "linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%)",
+        "linear-gradient(to top, #37ecba 0%, #72afd3 100%)"
+    ]
+}
